@@ -1,4 +1,3 @@
-
 local Player = game.Players.LocalPlayer
 local CoreGui = game:GetService("CoreGui")
 local RS = game:GetService("RunService")
